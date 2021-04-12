@@ -1,13 +1,18 @@
-# python-basic
+# python-samples
 
 1) Install Python.
     Go to www.python.org and download the latest version of python.
     Open the executable downloaded file and follow the steps.
 
 2) To check the python installed or not.
-    Open the terminal and type python, in next line you will see something like . . . '>>>'
-    Type print("hell0"), you will see the result like
-    >>> hello
+    Open the terminal and type *python*, in next line you will see something like. 
+    ```
+    $ python3
+      Python 3.7.3 (default, Apr 24 2020, 18:51:23)
+      [Clang 11.0.3 (clang-1103.0.32.62)] on darwin
+      Type "help", "copyright", "credits" or "license" for more information.
+      >>>
+    ```
 
 3) Python IDE
     a. PyCharm
